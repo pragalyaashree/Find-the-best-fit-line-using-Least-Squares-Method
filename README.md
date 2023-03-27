@@ -46,7 +46,8 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
+<img width="565" alt="mlexp1" src="https://user-images.githubusercontent.com/128135934/227860210-ed02d48b-c891-41cc-9791-5442f126150d.png">
+
 
 
 ## Result:
