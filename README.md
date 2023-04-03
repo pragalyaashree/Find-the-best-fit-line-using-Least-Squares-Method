@@ -25,6 +25,11 @@ Developed by: Pragalyaa Shree R K
 
 RegisterNumber:  212221040125
 ```
+
+
+
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 #Getting the values of x&y
